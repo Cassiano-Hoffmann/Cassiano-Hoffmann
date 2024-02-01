@@ -24,5 +24,5 @@ Estou começando a aprender as tecnologias:
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
 - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo" />
 
-[![Cassiano](https://github-readme-stats.vercel.app/api?username=Cassiano-Hoffmann)](https://github.com/anuraghazra/github-readme-stats)
+![Cassiano](https://github-readme-stats.vercel.app/api?username=Cassiano-Hoffmann&show_icons=true)
 
