@@ -26,3 +26,5 @@ Estou começando a aprender as tecnologias:
 
 ![Cassiano](https://github-readme-stats.vercel.app/api?username=Cassiano-Hoffmann&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassiano-Hoffmann)](https://github.com/anuraghazra/github-readme-stats)
+
